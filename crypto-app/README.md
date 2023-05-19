@@ -2,15 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Steps
 
-In the project directory, you can run:
+Navigate to the app's directory 'crypto-app'
 
-### First of all the installation of node_modules are required `npm i`
+### The installation of the dependencies is required `npm i`
 
-### `npm start`
+### Start the app `npm start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -18,6 +17,5 @@ You may also see any lint errors in the console.
 
 ### THE API
 
-the api used for gathering cryptocurrency information in this app is - https://www.coingecko.com/en/api/documentation
-
-The only downside of this API is that sometimes it might not return informatio, because the API key is free trail and there is a limit on the requests.
+The api used for gathering cryptocurrency information in this app is - https://www.coingecko.com/en/api/documentation
+The only downside of this API is that sometimes it might not return information, because the API key is free trail and there is a limit on the requests.
